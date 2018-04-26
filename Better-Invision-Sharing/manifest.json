@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Better Invision Sharing",
+  "author":"Cameron Wheeler",
+  "version": "1.1",
+  "description": "Remove necessary artifacts so you don't see them in presentations",
+  
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+          
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://*.invisionapp.com/share/*"]
+  }]
+
+}
