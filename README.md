@@ -1,3 +1,4 @@
+![picture alt](https://github.com/heycameron/better-Invision-sharing/blob/master/Better-Invision-Sharing/icon48.png "App Logo")
 # Better Invision Sharing
 Install this chrome extension to hide the 'Made with Invision' and comment mode buttons when using an invision 'share' link.
 
